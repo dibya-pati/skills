@@ -8,7 +8,7 @@
 
 ## Media Safety
 - Upload images in Medium editor (PNG/JPG/WebP preferred).
-- Remove local image links (`/Users/...`, `C:\...`, `file://...`).
+- Remove local image links that point to filesystem paths or file URIs.
 - Avoid SVG image links for article body embeds.
 - Add caption text directly below each image.
 

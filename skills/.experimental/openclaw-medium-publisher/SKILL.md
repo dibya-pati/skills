@@ -38,7 +38,7 @@ Use this skill to turn a rough draft into a Medium-ready post with clean structu
 
 ## Media Rules (Strict)
 
-- Never publish Markdown that references `/Users/...` or other local absolute paths.
+- Never publish Markdown that references local absolute filesystem paths.
 - Never assume Medium will render `image/svg+xml` reliably in article content.
 - Keep captions as normal text immediately under each image.
 
