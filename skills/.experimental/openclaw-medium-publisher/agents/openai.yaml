@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medium Publisher"
+  short_description: "Format Medium posts and media cleanly"
+  default_prompt: "Use $openclaw-medium-publisher to clean and prepare this draft for Medium publishing."
